@@ -5,6 +5,13 @@ public class adios {
 		System.out.println(
 				"Adios"
 		);
+		
+		int kaka = 1;
+		
+		System.out.println(
+				"" + kaka
+		);
+		
 	}
 
 }
