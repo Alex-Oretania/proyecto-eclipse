@@ -5,6 +5,13 @@ public class adios {
 		System.out.println(
 				"Adios y hola."
 		);
+		System.out.println(
+				"Adios y hola."
+		);		System.out.println(
+				"Adios y hola."
+		);		System.out.println(
+				"Adios y hola."
+		);
 		
 		int kaka = 1;
 		
