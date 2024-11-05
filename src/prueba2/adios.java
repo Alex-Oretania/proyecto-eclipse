@@ -7,12 +7,14 @@ public class adios {
 		);
 		System.out.println(
 				"Adios y hola."
-		);		System.out.println(
+		);	
+		System.out.println(
 				"Adios y hola."
-		);		System.out.println(
+		);	
+		System.out.println(
 				"Adios y hola."
 		);
-		
+	
 		int kaka = 1;
 		
 		System.out.println(
